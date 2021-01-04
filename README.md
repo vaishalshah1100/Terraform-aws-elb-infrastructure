@@ -1,4 +1,4 @@
-# Terraform-ELB-Architecture
+# Terraform-ELB-Infrastructure
 Highly Scalable Infrastructure
 
 --To deploy Infrastructure--
